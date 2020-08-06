@@ -23,5 +23,3 @@
 - ⚡ Fun fact: I am a Guitarist too.
 
 ![vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&hide_border=true)
-
-
