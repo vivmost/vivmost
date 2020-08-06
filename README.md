@@ -1,3 +1,4 @@
+### Hello World!! 👋
 <img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
 <br/>
@@ -15,9 +16,9 @@
 
 - 🔭 I’m currently working on Android development.
 - 🌱 I’m currently learning DataStructures and Algorithms.
-- 👯 I’m looking to collaborate on Anything having an impact.
+- 👯 I’m looking to collaborate on anything having an impact.
 - 🤔 I’m looking for help with career guidance.
-- 💬 Ask me about Anything and everything.
+- 💬 Ask me about anything and everything.
 - 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
 - ⚡ Fun fact: I am a Guitarist too.
 
