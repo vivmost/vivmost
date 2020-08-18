@@ -19,4 +19,4 @@
 - 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
 - ⚡ Fun fact: I am a _Guitarist too_.
 
-![vivek's github stats](https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&hide_border=true)
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true" /></p>
