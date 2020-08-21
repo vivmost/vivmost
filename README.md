@@ -1,14 +1,9 @@
 ### Hey World!! 👋
 <img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
-
 <br/>
-<a href="https://twitter.com/vivmost">
-  <img align="left" alt="vivek | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vivmost">
-  <img align="left" alt="vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
+<a href = "https://www.linkedin.com/in/vivmost/"><img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/vivmost"><img src="https://img.icons8.com/cotton/45/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/viv_most/"><img src="https://img.icons8.com/color/45/000000/instagram-new.png"/></a>
 <br/><br/>
 
 - 🔭 I’m currently working on **Android development**.
