@@ -1,4 +1,4 @@
-### Hello World!! 👋
+### Hey World!! 👋
 <img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="alt text" width="100" height="100" />
 
 <br/>
@@ -17,6 +17,6 @@
 - 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
-- ⚡ Fun fact: I am a _Guitarist too_.
+- ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 
-<p align="left"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby" /></p>
+<p align="left"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby"/></p>
