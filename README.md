@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on **Android development**.
+- 🔭 I’m currently working on **Android App Development**.
 - 🌱 I’m currently learning **DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 🤔 I’m looking for help with career guidance.
