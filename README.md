@@ -17,9 +17,8 @@
 - 🔭 I’m currently working on **Android App Development**.
 - 🌱 I’m currently learning **DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
-- 🤔 I’m looking for help with career guidance.
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-<p align="center"><img width="70%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby"/></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby"/></p>
