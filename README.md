@@ -21,4 +21,4 @@
 - 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-<p align="center"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby"/></p>
+<p align="center"><img width="85%" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby"/></p>
