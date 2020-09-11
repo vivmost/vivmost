@@ -23,5 +23,4 @@
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby" width="70%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivmost&theme=dark" alt="Languages Used" width="70%">
 </p>
