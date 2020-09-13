@@ -1,5 +1,5 @@
-<img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="hi!!" width="100px"/> 
-<img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="80%">
+<img src="https://github.com/vivmost/vivmost/blob/master/res/Hi.gif" width="100px"/> 
+<img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="100%">
 
 ## Social Media :busts_in_silhouette:
 <a href="https://twitter.com/vivmost">
