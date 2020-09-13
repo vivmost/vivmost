@@ -20,6 +20,7 @@
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="100px"/> 
+  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="80%"/> 
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="80%">
 </p>
