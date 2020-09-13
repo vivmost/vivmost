@@ -1,5 +1,5 @@
-### Hey World!! 👋
-<img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="alt text" width="100" height="100" /> <br/>
+<img src="https://github.com/vivmost/vivmost/blob/master/Hi.gif" alt="hi!!" width="100px"/> 
+<img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="80%">
 
 ## Social Media :busts_in_silhouette:
 <a href="https://twitter.com/vivmost">
@@ -18,9 +18,8 @@
 - 🌱 I’m currently learning **DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
-- 📫 How to reach me: [Mail](mailto:vivmost@gmail.com), [LinkedIn](https://www.linkedin.com/in/vivmost).
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=great-gatsby" width="70%">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="70%">
 </p>
