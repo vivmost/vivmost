@@ -19,7 +19,7 @@
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
+  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="100px"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="80%">
 </p>
