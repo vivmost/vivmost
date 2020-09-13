@@ -1,6 +1,6 @@
 <img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="100%">
 <br>
-## Social Media :busts_in_silhouette:  
+## Social Media :busts_in_silhouette:  <img src="https://github.com/vivmost/vivmost/blob/master/res/Hi.gif" width="50px"/>
 <a href="https://twitter.com/vivmost">
   <img align="left" alt="Vivek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -10,7 +10,6 @@
 <a href="https://www.instagram.com/in/viv_most/">
   <img align="left" alt="Vivek's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src="https://github.com/vivmost/vivmost/blob/master/res/Hi.gif" width="50px"/>
 
 <br/><br/>
 
