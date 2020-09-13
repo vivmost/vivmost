@@ -1,7 +1,6 @@
 <img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="100%">
-<br>
-Social Media :busts_in_silhouette: 
-<br>
+
+## Social Media 👥
 <a href="https://twitter.com/vivmost">
   <img align="left" alt="Vivek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
