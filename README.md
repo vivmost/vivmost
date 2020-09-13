@@ -1,13 +1,13 @@
 <img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="100%">
 
 ## Social Media 👥 :
-<a href="https://twitter.com/vivmost" target="_blank">
+<a href="https://twitter.com/vivmost" target="blank">
   <img align="left" alt="Vivek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vivmost/" target="_blank">
+<a href="https://www.linkedin.com/in/vivmost/" target="blank">
   <img align="left" alt="Vivek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/in/viv_most/" target="_blank">
+<a href="https://www.instagram.com/in/viv_most/" target="blank">
   <img align="left" alt="Vivek's instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
