@@ -21,5 +21,5 @@
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
 </p>
