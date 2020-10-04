@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on **Android App Development**.
+- 🔭 I’m currently exploring different **tech-stacks**.
 - 🌱 I’m currently learning **DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
