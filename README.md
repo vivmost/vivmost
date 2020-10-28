@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-- 🔭 I’m currently learning different **Full Stack web development**.
+- 🔭 I’m currently learning **Full Stack web development**.
 - 🌱 I’m currently learning **Problem Solving using DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
