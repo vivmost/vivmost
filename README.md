@@ -14,7 +14,7 @@
 <br/><br/>
 
 - 🔭 I’m currently learning **Full Stack web development**.
-- 🌱 I’m currently learning **Problem Solving using DataStructures and Algorithms**.
+- 🌱 I’m currently improving my **Problem Solving skills using DataStructures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
