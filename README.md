@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-- 🔭 I’m learning **Full Stack web development**.
-- 🌱 I’m working on improving my Problem Solving skills using **DataStructures and Algorithms**.
+- 🔭 I’m learning **Full Stack Web Development**.
+- 🌱 I’m working on improving my Problem Solving skills using **Data Structures and Algorithms**.
 - 👯 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: I am a _Guitarist 🎸 too_.
