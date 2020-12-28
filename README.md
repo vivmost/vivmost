@@ -19,7 +19,7 @@
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: I like Finances and I am a _Guitarist 🎸 too_.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/master/dino.gif" width="100%"/> 
+  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="100%"/> 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
 </p>
