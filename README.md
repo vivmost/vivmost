@@ -15,9 +15,9 @@
 
 - 🔭 I love **Web Development and Problem Solving**.
 - 🌱 I’m working on improving my Problem Solving and Product Development skills.
-- 👯 I’m looking to collaborate on anything having an impact.
+- 🌟 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
-- ⚡ Fun fact: I like Finances and I am a _Guitarist 🎸 too_.
+- ⚡ Fun fact: I believe creativity with logic can do wonders and I am a _Guitarist 🎸 too_.
 <p align="center">
   <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="100%"/> 
   <br>
