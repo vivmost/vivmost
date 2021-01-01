@@ -14,7 +14,7 @@
 <br/><br/>
 
 - 🔭 I like **Problem Solving and App Development (Web, Mobile)**.
-- 🌱 I’m working on improving my Problem Solving and Product Development skills.
+- 🌱 I’m working on improving Problem Solving and Product Development skills.
 - 🌟 I’m looking to collaborate on anything having an impact.
 - 💬 Ask me about anything and everything.
 - ⚡ Fun fact: Just trying to be creative logically and I am a _Guitarist 🎸 too_.
