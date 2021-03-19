@@ -1,4 +1,4 @@
-<img src="https://github.com/vivmost/vivmost/blob/master/res/bannergif1.gif" width="100%">
+<img src="https://github.com/vivmost/vivmost/blob/master/res/Vivek%20Singh.png" width="100%">
 
 ## Social Media 👥 :
 <a href="https://twitter.com/vivmost">
