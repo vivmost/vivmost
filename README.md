@@ -1,6 +1,6 @@
-<img src="https://github.com/vivmost/vivmost/blob/master/res/Vivek%20Singh.png" width="100%">
+<img src="https://github.com/vivmost/vivmost/blob/master/res/Vivek%20Singh.gif" width="100%">
 
-## Social Media 👥 :
+## Let's Connect 👥:
 <a href="https://twitter.com/vivmost">
   <img align="left" alt="Vivek's Twitter" width="22px" src="https://img.icons8.com/cotton/45/000000/twitter.png" />
 </a>
@@ -19,7 +19,5 @@
 - 💬 Ask me about anything and everything.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" width="100%"/> 
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
 </p>
