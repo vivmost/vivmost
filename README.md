@@ -8,7 +8,7 @@
   <img align="left" alt="Vivek's Linkdein" width="22px" src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png" />
 </a>
 <a href="https://www.instagram.com/viv_most/?hl=en">
-  <img align="left" alt="Vivek's instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
+  <img align="left" alt="Vivek's instagram" width="22px" src="https://img.icons8.com/color/45/000000/instagram-new.png" />
 </a>
 
 <br/><br/>
