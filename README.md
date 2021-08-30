@@ -22,4 +22,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=algolia" width="90%">
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=vivmost&theme=react-dark&area=true)
