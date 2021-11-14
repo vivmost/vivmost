@@ -1,10 +1,8 @@
-<h2 align="center"> Hi there 👋 I'm Vivek Singh.</h2>
+<h2 align="center"> Hi there 👋 I'm Vivek Singh</h2>
 
 - 🔭 I like **Problem Solving and App Development (Web, Mobile)**.
 - 🌱 I’m working on improving Problem Solving and Product Development skills.
 - 🌟 I’m looking to collaborate on anything having an impact.
-
-<br/><br/>
  
 ## Let's Connect 👥:
    <a href="https://twitter.com/vivmost">
@@ -16,8 +14,7 @@
    <a href="https://www.instagram.com/viv_most/?hl=en">
      <img align="left" alt="Vivek's instagram" width="22px" src="https://img.icons8.com/color/45/000000/instagram-new.png" />
    </a>
-
-  <br/><br/>
+  <br/>
 
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=yeblu" alt="vivmost stats" />
