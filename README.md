@@ -16,10 +16,10 @@
    </a>
   <br/>
 
-  <p align="center">
+<!--   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=yeblu" alt="vivmost stats" />
   </p>
-
+ -->
   <p align="center">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" />
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" />
