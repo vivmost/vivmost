@@ -1,16 +1,21 @@
 <h2 align="center"> Hi there, I'm Vivek Singh</h2>
 
+<br/>
+
+<div>
+  <img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+
+<br/>
+
  <p align="center">
    I like Problem Solving and Developing Scalable Solutions. <br>
-   I’m looking to collaborate on anything having an impact.
+   I’m looking to collaborate on anything that has an impact.
  </p>
- 
-  <br>
 
-<!--   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivmost&show_icons=true&theme=yeblu" alt="vivmost stats" />
-  </p>
- -->
+<br/>
+
   <p align="center">
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" />
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vivmost&theme=solarized_dark" alt="vivmost stats" />
